@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    acast:
+      email: support@acast.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: friend
+      password: $2b$12$T/lwL8QBDQ1QAkMTOSq62umj3pDdBNaNFcVav8oyvrI0mnRnL7MVq # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: scripthub_signature_key # Must be string
+  name: scripthub_cookie

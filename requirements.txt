@@ -1,1 +1,9 @@
 streamlit
+requests
+streamlit-extras
+cryptography
+pandas
+feedparser
+python-dateutil
+streamlit-authenticator
+pyyaml
